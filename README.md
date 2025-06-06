@@ -31,7 +31,7 @@ Welcome to my **DSA Supreme Batch** repository! This repo contains my **notes, C
 | 🎁 Bonus | Greedy Algorithms, Sliding Window, Bit Manipulation |
 
 ---
-
+<img width="1470" alt="Screenshot 2025-06-06 at 12 54 00 PM" src="https://github.com/user-attachments/assets/e1a6d4fe-d60f-4f74-8aa0-944ccc9d1566" />
 ## 📁 Repository Structure
 
 - 🔹 **Week-wise Folders**: Each folder contains source code and notes for that week's topics.
